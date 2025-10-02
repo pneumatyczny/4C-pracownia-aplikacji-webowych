@@ -1,0 +1,13 @@
+{
+  "name": "2025.10.02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zadanie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "jsonfile": "^6.2.0"
+  }
+}
